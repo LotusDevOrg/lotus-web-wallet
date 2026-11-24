@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.png" alt="lotus-web-wallet" width="640"></p>
+
 # Lotus Web Wallet
 
 A progressive web application for the Lotusia ecosystem with P2P wallet functionality and social reputation features.
